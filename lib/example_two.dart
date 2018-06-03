@@ -69,8 +69,8 @@ class _ExampleTwoState extends State<ExampleTwo> {
             );
           },
           itemCount: 4,
-          shrinkWrap: true,
-          physics: ClampingScrollPhysics(),
+          shrinkWrap: true, // todo comment this out and check the result
+          physics: ClampingScrollPhysics(), // todo comment this out and check the result
         ),
       ],
     );
