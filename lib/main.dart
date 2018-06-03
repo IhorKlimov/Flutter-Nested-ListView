@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_nested_listview/example_2.dart';
+import 'package:flutter_nested_listview/example_two.dart';
 import 'package:flutter_nested_listview/example_one.dart';
 import 'package:flutter_nested_listview/home.dart';
 
